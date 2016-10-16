@@ -1,1 +1,9 @@
 F:\DogRaceDay\DogRaceDay\DogRaceDay\bin\Debug\DogRaceDay.exe.config
+F:\DogRaceDay\DogRaceDay\DogRaceDay\bin\Debug\DogRaceDay.exe
+F:\DogRaceDay\DogRaceDay\DogRaceDay\bin\Debug\DogRaceDay.pdb
+F:\DogRaceDay\DogRaceDay\DogRaceDay\obj\Debug\DogRaceDay.csprojResolveAssemblyReference.cache
+F:\DogRaceDay\DogRaceDay\DogRaceDay\obj\Debug\DogRaceDay.Form1.resources
+F:\DogRaceDay\DogRaceDay\DogRaceDay\obj\Debug\DogRaceDay.Properties.Resources.resources
+F:\DogRaceDay\DogRaceDay\DogRaceDay\obj\Debug\DogRaceDay.csproj.GenerateResource.Cache
+F:\DogRaceDay\DogRaceDay\DogRaceDay\obj\Debug\DogRaceDay.exe
+F:\DogRaceDay\DogRaceDay\DogRaceDay\obj\Debug\DogRaceDay.pdb
